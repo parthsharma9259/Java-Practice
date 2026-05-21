@@ -2,7 +2,7 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120" alt="GitHub Logo"/>
 </p>
 
-<h1 align="center">🚀 Java Development Journey</h1>
+<h1 align="center"> Java Development Journey</h1>
 
 <p align="center">
   <b>Code. Learn. Build. Repeat. ⚡</b>
