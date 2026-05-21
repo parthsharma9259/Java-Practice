@@ -2,29 +2,29 @@
 
 Welcome to my Java Practice Repository! 🚀
 
-This repository contains Java programs that I practice daily to improve my programming, problem-solving, and logic-building skills.
+This repository contains my Java learning journey, including practice questions, logic-building programs, problem-solving exercises, and projects.
 
-## 📚 Programs Included
-✔️ Armstrong Number  
-✔️ Palindrome Number  
-✔️ Prime Number  
-✔️ Reverse String  
-✔️ Fibonacci Series  
-✔️ Factorial Number  
+## 📚 What You'll Find Here
+- Java Practice Questions  
+- Core Java Concepts  
+- Logic Building Programs  
+- Problem Solving Exercises  
+- Mini Projects  
+- DSA & Interview Preparation  
 
 ## 🛠️ Technologies Used
-- Java
-- VS Code
-- Git & GitHub
+- Java  
+- VS Code  
+- Git & GitHub  
 
 ## 🎯 Purpose of this Repository
-- Daily Java Practice  
-- Improve Problem Solving Skills  
-- Strengthen Core Java Concepts  
-- Prepare for Placements & Interviews  
+- Improve Java Programming Skills  
+- Strengthen Problem Solving & Logic Building  
+- Practice Daily Coding  
+- Prepare for Placements & Technical Interviews  
 
-## 📌 Future Updates
-More Java programs and DSA questions will be added regularly.
+## 🚀 Future Updates
+This repository will be updated regularly with new Java concepts, coding questions, and projects.
 
 ---
-⭐ If you like this repository, feel free to explore it!
+✨ Learning and growing every day with Java!
