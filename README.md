@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Java Development Journey</h1>
+<h1 align="center"> Java Development Journey</h1>
 
 <p align="center">
   <i>Code. Learn. Build. Repeat. ⚡</i>
