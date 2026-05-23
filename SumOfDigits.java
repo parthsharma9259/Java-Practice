@@ -15,4 +15,4 @@ public class SumOfDigits {
 
         System.out.println("Sum of digits = " + sum);
     }
-}
+}x
